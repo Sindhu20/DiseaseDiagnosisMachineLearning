@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1521344838837.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "71DA5ECE",
+    "lastKnownWriteTime" : 1521352683,
+    "last_content_update" : 1521352683459,
+    "path" : "C:/Users/HOME/Desktop/Project/meena/god/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+        "cursorPosition" : "55,47",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
